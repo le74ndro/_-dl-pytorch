@@ -9,6 +9,7 @@ https://classroom.udacity.com/nanodegrees/nd188/
 ### 1. Deep Learning with Pytorch
 
 ```
+1   Welcome to the Scholarship Challenge!
 
 ```
 
