@@ -15,6 +15,7 @@ https://sites.google.com/udacity.com/pytorch-scholarship-facebook/home
 2   Introduction to Neural Networks
 3   Talking PyTorch with Soumith Chintala
 4   Introduction to Pytorch
+5   Convolutional Neural Networks
 
 ```
 
