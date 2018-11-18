@@ -19,6 +19,7 @@ https://sites.google.com/udacity.com/pytorch-scholarship-facebook/home
 6   Style Transfer
 7   Recurrent Neural Networks
 8   Sentiment Prediction with CNNs
+9   Deploying PyTorch Models
 
 ```
 
