@@ -17,6 +17,7 @@ https://sites.google.com/udacity.com/pytorch-scholarship-facebook/home
 4   Introduction to Pytorch
 5   Convolutional Neural Networks
 6   Style Transfer
+7   Recurrent Neural Networks
 
 ```
 
