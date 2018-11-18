@@ -18,6 +18,7 @@ https://sites.google.com/udacity.com/pytorch-scholarship-facebook/home
 5   Convolutional Neural Networks
 6   Style Transfer
 7   Recurrent Neural Networks
+8   Sentiment Prediction with CNNs
 
 ```
 
