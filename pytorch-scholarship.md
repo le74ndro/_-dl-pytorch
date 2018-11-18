@@ -13,6 +13,7 @@ https://sites.google.com/udacity.com/pytorch-scholarship-facebook/home
 ```
 1   Welcome to the Scholarship Challenge!
 2   Introduction to Neural Networks
+3   Talking PyTorch with Soumith Chintala
 
 ```
 
