@@ -4,6 +4,8 @@ Deep Learning with [Pytorch](https://pytorch.org/)
 
 from [Facebook AI](https://research.fb.com/category/facebook-ai-research/)
 
+https://go.fb.com/ai-developer-signup.html
+
 
 # [PyTorch Scholarship Challenge Nanodegree Program](pytorch-scholarship.md)
 https://classroom.udacity.com/nanodegrees/nd188/
