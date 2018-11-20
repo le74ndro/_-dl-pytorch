@@ -24,4 +24,5 @@ https://sites.google.com/udacity.com/pytorch-scholarship-facebook/home
 LAB Challenge Project
 ```
 
+### PyTorch Scholarship Challenge Orientation - UPDATED!
 
